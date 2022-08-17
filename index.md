@@ -1,7 +1,7 @@
 # Ryan Dalby
 Hello!
 
-I am a diversely skilled mechanical engineering and computer science student who is interested in applying data driven solutions to the interesting problems found in robotics, automation, image processing, and computer vision.
+I am a diversely skilled mechanical engineering and computer science graduate who is interested in applying data driven solutions to the interesting problems found in robotics, automation, image processing, and computer vision.
 
 Currently I am open to new opportunities in Robotics, Machine Learning, Data Science, and Software Engineering.
 I graduated with both an M.S. and B.S. in Mechanical Engineering with a focus in robotics in spring 2022.
