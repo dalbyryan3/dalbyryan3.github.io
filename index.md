@@ -18,7 +18,7 @@ Hello and welcome to my Curriculum Vitae / Personal Website!
 I am a robotic software engineering professional current located in the Boulder-Denver metro area. 
 
 I have a diverse education background, comprising the full "robotics stack" of Computer Science, Mechanical Engineering, and Electrical Engineering. 
-I graduated from the University of Utah in May 2022 with both a [B.S. and M.S. in Mechanical Engineering](https://www.mech.utah.edu/academics/grads/current-students/mechanical-engineering-graduate-degree-programs/), specializing in [robotics](http://robotics.coe.utah.edu/robotics-track/). 
+I graduated from the University of Utah in May 2022 with both a [B.S. and M.S. in Mechanical Engineering](https://www.mech.utah.edu/academics/grads/current-students/mechanical-engineering-graduate-degree-programs/), specializing in [Robotics](http://robotics.coe.utah.edu/robotics-track/). 
 During my time in school I also completed a minor in [Graduate Certificate in Deep Learning](https://www.cs.utah.edu/graduate/graduate-certificate-in-deep-learning/) and a [Computer Science](https://www.cs.utah.edu/docs/Undergraduate/old/CSMinor_2017-18.pdf).
 
 My extensive professional experience has helped me build a strong skill set encompassing a range of technical and soft skills. 
@@ -27,7 +27,7 @@ As a software developer I am well versed in modern software practices including 
 I have a holistic understanding of programming languages and their fundamentals, especially C#, Python, and C/C++.
 My diverse engineering background has enabled me to be comfortable working with physical hardware and real-world systems and data.
 As a professional I am a team-player, strong communicator, and driven to deliver value.
-My [resume](##Resume) and my [LinkedIn](##LinkedIn) can provide a more detailed picture of my professional experience and the specific technologies and skills I have attained.
+My resume and LinkedIn can provide a more detailed picture of my professional experience and the specific technologies and skills I have attained.
 
 Currently I am open to new opportunities in Robotics, Automation, Software Engineering, Machine Learning, and Data Science.
 I am especially interested in applying real-world data to enable more robust robotics and software systems.
