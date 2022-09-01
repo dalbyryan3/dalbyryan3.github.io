@@ -15,11 +15,11 @@
 Hello and welcome to my Curriculum Vitae / Personal Website!
 
 ## Summary
-I am a robotic software engineering professional current located in the Boulder-Denver metro area. 
+I am a robotic software engineering professional located in the Boulder-Denver metro area. 
 
 I have a diverse education background, comprising the full "robotics stack" of Computer Science, Mechanical Engineering, and Electrical Engineering. 
 I graduated from the University of Utah in May 2022 with both a [B.S. and M.S. in Mechanical Engineering](https://www.mech.utah.edu/academics/grads/current-students/mechanical-engineering-graduate-degree-programs/), specializing in [Robotics](http://robotics.coe.utah.edu/robotics-track/). 
-During my time in school I also completed a minor in [Graduate Certificate in Deep Learning](https://www.cs.utah.edu/graduate/graduate-certificate-in-deep-learning/) and a [Computer Science](https://www.cs.utah.edu/docs/Undergraduate/old/CSMinor_2017-18.pdf).
+During my time in school I also completed a [Graduate Certificate in Deep Learning](https://www.cs.utah.edu/graduate/graduate-certificate-in-deep-learning/) and a minor in [Computer Science](https://www.cs.utah.edu/docs/Undergraduate/old/CSMinor_2017-18.pdf).
 
 My extensive professional experience has helped me build a strong skill set encompassing a range of technical and soft skills. 
 I am a problem solver and lifelong learner, excited for learning technologies.
